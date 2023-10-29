@@ -1,0 +1,19 @@
+token = 'TOKEN'
+guild = 'ID'
+channel = 'ID'
+color_embed = 'COLOR'
+
+[status]
+    [status.first]
+        name = "Name 1"
+        servers = [
+            ["Server Name 1", "IP 1"],
+			["Server Name 2", "IP 2"],
+        ]
+
+    [status.second]
+        name = "Name 2"
+        servers = [
+            ["Server Name 1", "IP 1"],
+			["Server Name 2", "IP 2"],
+        ]
